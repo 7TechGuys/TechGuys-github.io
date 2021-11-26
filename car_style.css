@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url(chris-barbalis-9qlSGW_LgKs-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+h1{
+    font-size:74px;
+    font-family: 'Montserrat', sans-serif;
+}
+.buffer{
+    height:10rem;
+}
+#hr-special{
+    margin: 20px auto;
+    
+    border: 3px solid #af2007;
+    max-width:120px;   
+}
+.btn{
+    background-color:#e23b1e;
+    border: 3px solid #e23b1e;
+    border-radius: 2px 12px;
+    padding: 8px 23px;
+    font-size:23px;
+
+}
+.btn:hover{
+    background-color:#F05F44;
+    border-color:#F05F44;
+}
+.btn:checked{
+    background-color:#F05F44;
+    border-color:#F05F44;
+}
